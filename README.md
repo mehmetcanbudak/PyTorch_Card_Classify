@@ -8,7 +8,7 @@ Build your very first PyTorch model that can classify images of playing cards
 
 ## Installation
 
-Install my-project with npm
+Install with pip.
 
 ```bash
   pip install -r requirements.txt
